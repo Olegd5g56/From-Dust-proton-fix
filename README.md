@@ -1,14 +1,14 @@
 # From-Dust-proton-fix
-Set of files for launching From Dust in steam proton
+Set of files for launching From Dust in steam proton + disable Ubisoft Connect
 
 # Use
-Just download from releases and unpack with replacement in the game directory
+1. Install GE-Proton10-3
+2. Download from releases and unpack with replacement in the game directory
 
 # How it works
 game (DirectX 9) -> dgvoodoo2-2.79.3 (DirectX 11) -> dxvk (vulkan) 
 
-Ubisoft Connect is disabled
-
 # Links
-https://github.com/dege-diosg/dgVoodoo2
+https://github.com/dege-diosg/dgVoodoo2 <br>
+https://github.com/GloriousEggroll/proton-ge-custom <br>
 https://steamcommunity.com/sharedfiles/filedetails/?id=3012267225
