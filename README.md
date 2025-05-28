@@ -1,8 +1,8 @@
 # From-Dust-proton-fix
-Set of files for launching From Dust in steam proton + disable Ubisoft Connect
+Set of files for launching **From Dust** in **Steam Proton** + disable Ubisoft Connect
 
 # Use
-1. Install GE-Proton10-3
+1. Install **GE-Proton10-3**
 2. Download from releases and unpack with replacement in the game directory
 
 # How it works
